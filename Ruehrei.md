@@ -10,7 +10,7 @@ Dies ist ein einfaches und schnelles Rezept, welches sich für den Frühstück e
 * 3 Eier
 * Gewürze: Salz, Pfeffer,
   * optional: Curry, Cayenne Pfeffer, oder Dill
-* Pflanzenöl
+* Pflanzenöl (1 - 2 Esslöffel)
 
 ### Zubereitung
 
@@ -20,7 +20,7 @@ Anschließend schneidet man die Scheiben Wurst, Salami, Schinken oder Speck in k
 Als letzter Vorbereitungsschritt fügt man das Eiweiß und Eigelb der 3 Eier in eine Schüssel hinzu, würzt diese mit Salz, Pfeffer und - nach Belieben - mit weiteren Gewürzen,
 und schlägt sie auf, zum Beispiel mit einer Gabel, bis eine homogene Masse entsteht.
 
-Als Nächstes erhitzt man das Pflanzenöl (1 - 2 Esslöffel) in einer Pfanne auf voller Herdstufe und fügt die Zwiebel- und Fleischstückchen in die Pfanne hinzu.
+Als Nächstes erhitzt man das Pflanzenöl in einer Pfanne auf voller Herdstufe und fügt die Zwiebel- und Fleischstückchen in die Pfanne hinzu.
 Diese Zutaten brät man etwa 1 - 2 Minuten auf voller Herdstufe bei ständigem Rühren mit einem Pfannenwender.
 Falls die Zusatzzutaten nicht benutzt werden, einfach nur das Pflanzenöl kurz erhitzen (ca. 30 Sekunden).
 
