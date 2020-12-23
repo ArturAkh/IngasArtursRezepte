@@ -12,3 +12,5 @@ Dies ist eine Ansammlung unserer Kochrezepte für die Küche im Alltag, schnell 
 * [Kidney-Bohnen Suppe](KidneySuppe.md)
 * [Pelmeni](Pelmeni.md)
 * [Manty](Manty.md)
+* [Grüner Salat](Salat.md)
+* [Salat Olivier](Olivier.md)
