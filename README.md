@@ -1,6 +1,6 @@
 # Ingas und Arturs Rezepte
 
-Dies ist eine Ansammlunge unserer Kochrezepte für die Küche im Alltag, schnell und lecker zubereitet. Folgende Gerichte stellen wir vor:
+Dies ist eine Ansammlung unserer Kochrezepte für die Küche im Alltag, schnell und lecker zubereitet. Folgende Gerichte stellen wir vor:
 
 * [Borschtsch](Borschtsch.md)
 * [Hähnchenbrustfilet gebraten](Haenhchen.md)
