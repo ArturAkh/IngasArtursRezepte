@@ -8,7 +8,7 @@ Dies ist eine Ansammlung unserer Kochrezepte für die Küche im Alltag, schnell 
 * [Fischfilet im Ofen](Fischfilet.md)
 * [Eierreis mit Gemüse und Fleisch](Eierreis.md)
 * [Zucchini mit Gemüse gedünstet](Zucchini.md)
-* [Blätterteig mit Apfel](ApfleTeig.md)
+* [Blätterteig mit Apfel](ApfelTeig.md)
 * [Kidney-Bohnen Suppe](KidneySuppe.md)
 * [Pelmeni](Pelmeni.md)
 * [Manty](Manty.md)
