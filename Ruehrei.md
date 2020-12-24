@@ -6,7 +6,7 @@ Dies ist ein einfaches und schnelles Rezept, welches sich für den Frühstück e
 
 * Optionale Zutaten:
   * Wurst, Salami, Schinken oder Speck (2 - 3 Scheiben)
-  * Zwiebeln (1/2 Stück), oder Frühlingszwiebeln (2 Stück) 
+  * geschälte Knollenzwiebel (1/2 Stück), oder Frühlingszwiebeln (2 Stück) 
 * 3 Eier
 * Gewürze: Salz, Pfeffer,
   * optional: Curry, Cayenne Pfeffer, oder Dill
