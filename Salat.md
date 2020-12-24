@@ -4,7 +4,7 @@ Ein schnelles Gericht, welches sich perfekt zum Frühstück oder als Beilage eig
 
 ### Zutaten
 
-* Zwiebel (1 kleines Stück, oder 1/2 großes Stück), Frühlingszwiebeln (2 - 3 Stück), oder Porree (1/4)
+* geschälte Knollenzwiebel (1 kleines Stück, oder 1/2 großes Stück), Frühlingszwiebeln (2 - 3 Stück), oder Porree (1/4)
 * 3 Tomaten
 * 1/2 Gurke
 * 1 große oder 2 kleine Karrotten
