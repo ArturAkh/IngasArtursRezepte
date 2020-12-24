@@ -18,3 +18,4 @@ Dies ist eine Ansammlung unserer Kochrezepte für die Küche im Alltag, schnell 
 * [Brat- und Backkartoffeln](Kartoffeln.md) *work in progress*
 * [Bliny](Bliny.md) *work in progress*
 * [Oladiya](Oladiya.md) *work in progress*
+* [Pirozhki](Pirozhki.md) *work in progress*
