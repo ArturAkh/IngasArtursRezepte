@@ -15,7 +15,7 @@ Dies ist ein einfaches und schnelles Rezept, welches sich für den Frühstück e
 ### Zubereitung
 
 Zunächst werden die optionalen Zutaten - falls gewünscht - zubereitet.
-Hierfür sollte die halbe Zwiebel in Würfel, oder die Frühlingszwiebeln in Scheiben geschnitten werden.
+Hierfür sollte die gewaschene halbe Zwiebel in Würfel, oder die gewaschenen Frühlingszwiebeln in Scheiben geschnitten werden.
 Anschließend schneidet man die Scheiben Wurst, Salami, Schinken oder Speck in kleine, mundgerechte Stücke.
 Als letzter Vorbereitungsschritt fügt man das Eiweiß und Eigelb der 3 Eier in eine Schüssel hinzu, würzt diese mit Salz, Pfeffer und - nach Belieben - mit weiteren Gewürzen,
 und schlägt sie auf, zum Beispiel mit einer Gabel, bis eine homogene Masse entsteht.
