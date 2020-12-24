@@ -14,8 +14,12 @@ Dies ist eine Ansammlung unserer Kochrezepte für die Küche im Alltag, schnell 
 * [Manty](Manty.md) *work in progress*
 * [Grüner Salat](Salat.md)
 * [Salat Olivier](Olivier.md) *work in progress*
+* [Vinaigrette](Vinaigrette.md) *work in progress*
+* [Heringssalat russischer Art](Heringssalat.md) *work in progress*
 * [Che](Che.md) *work in progress*
 * [Brat- und Backkartoffeln](Kartoffeln.md) *work in progress*
 * [Bliny](Bliny.md) *work in progress*
 * [Oladiya](Oladiya.md) *work in progress*
 * [Pirozhki](Pirozhki.md) *work in progress*
+* [Sauerkraut russischer Art](Sauerkraut.md) *work in progress*
+* [Salat aus roter Bete](SalatRoteBete.md) *work in progress*
