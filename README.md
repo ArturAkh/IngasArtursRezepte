@@ -16,3 +16,5 @@ Dies ist eine Ansammlung unserer Kochrezepte für die Küche im Alltag, schnell 
 * [Salat Olivier](Olivier.md) *work in progress*
 * [Che](Che.md) *work in progress*
 * [Brat- und Backkartoffeln](Kartoffeln.md) *work in progress*
+* [Bliny](Bliny.md) *work in progress*
+* [Oladiya](Oladiya.md) *work in progress*
