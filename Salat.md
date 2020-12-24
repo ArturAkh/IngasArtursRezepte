@@ -43,5 +43,5 @@ weiteren Gewürzen. Zuletzt vermischt man das Ganze gut in der Schüssel - und d
 Um diesen Salat zu einem üppigeren Mahl aufzuwerten, kann man weitere Zutaten hinzufügen:
 
 * Thunfisch: Aus dem grünen Salat wird leicht ein ganzes Mittagessen, indem man eine Konservendose Thunfisch dazu gibt, nachdem man die Flüssigkeit aus der Dose entfernt hat.
-* Schafskäse (z.B. Salakis), Mozarella: Den Salat kann man auch leicht mit einer der beiden Käsesorten ergänzen
-in dem man den Käse in genügend Würfel schneidet und in den Salat gibt.
+* Schafskäse (z.B. Salakis), Mozarella: Den Salat kann man auch leicht mit einer der beiden Käsesorten ergänzen,
+indem man den Käse in genügend Würfel schneidet und in den Salat gibt.
