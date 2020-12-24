@@ -27,7 +27,7 @@ Als Nächstes werden bei den Karrotten beide Enden werden zunächst getrennt, da
 Die halbe Gurke schält man ebenfalls, dann halbiert man diese längs, legt sie mit der flachen Seite auf das Schneidebrett und schneidet die Hälften in scheiben,
 um die fertigen Scheiben in die Schüssel zu geben.
 
-Die Paprika halbiert man längs, entfernt die Kerne, halbiert die Hälften, falls nötig, nochmals, um sie anschließen und kurze, dünne Streifen zu schneiden, die dann
+Die Paprika halbiert man längs, entfernt die Kerne, halbiert die Hälften, falls nötig, nochmals, um sie anschließend in kurze, dünne Streifen zu schneiden, die dann
 ebenfalls in die Schüssel kommen. Den Salat zerkleinert man - falls noch nicht geschehen - in mundgerechte Stücke (mit Messer oder auch durch Zerreißen mit Händen),
 und legt diesen in die Schüssel.
 
