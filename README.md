@@ -14,3 +14,4 @@ Dies ist eine Ansammlung unserer Kochrezepte für die Küche im Alltag, schnell 
 * [Manty](Manty.md) *work in progress*
 * [Grüner Salat](Salat.md)
 * [Salat Olivier](Olivier.md) *work in progress*
+* [Brat- und Backkartoffeln](Kartoffeln.md) *work in progress*
