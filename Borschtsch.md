@@ -20,3 +20,7 @@ für andere Gerichte weiterverwenden.
 * 1 großes oder 2-3 kleine Loorbeerblätter
 * Salz (am besten nicht gemahlener Meersalz oder Himalaya-Salz), Pfeffer nach Geschmack
   * Weitere Möglichkeiten für Gewürze: besonders beliebt sind Dill und Petersilie
+
+### Zubereitung
+
+### Aufbewahrung
