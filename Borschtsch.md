@@ -50,6 +50,24 @@ samt Saft, der beim Schneiden der Tomaten entstanden ist.
 
 Die Pfanne stellt man nun auf eine Herdplatte hin und schaltet diese auf höchste Stufe. Die Zwiebel- und Knoblauchstückchen werden hierbei etwas angebraten, man sollte
 diese mit einem Pfannenwender regelmäßig mischen. Sobald die Zwiebelwürfel etwas glasig aussehen - das ist meist etwa nach 1-2 Minuten der Fall - gibt man die Tomaten aus der
-Schüssel samt Saft hinzu und brät diese weitere 3-4 Minuten unter regelmäßigem Rühren an. Danach kann die in der Pfanne 
+Schüssel samt Saft hinzu und brät diese weitere 3-4 Minuten unter regelmäßigem Rühren an. Danach kann die in der Pfanne entstandene Masse in den Topf.
+Nicht vergessen, die Herdplatte, auf der die Pfanne war, auszuschalten!
+
+Als letzter Kochschritt schält man die rote Beete, viertelt diese bei Bedarf und fügt diese zusammen mit den kleinen Paprika in den Topf hinzu. Die rote Beete sollte noch
+mindestens weitere 15 Minuten kochen, damit sie fertig wird.
+
+In der Zwischenzeit bereitet man die Gewürze zu: falls Dill und Petersilie hinzukommen sollen, sollten diese klein geschnitten werden. Danach fügt man sie zusammen
+mit Pfeffer und Chili-Schoten in die Suppe hinzu und rührt diese mit einer Suppenkelle um. Dann kann die Suppe mit einem Esslöffel abgeschmeckt werden.
+Falls es an Salz und Pfeffer fehlt, kann man diese nach Geschmack hinzufügen und die Suppe wieder verrühren.
+
+Falls außerdem die Suppe eine zu hohe Konsistenz hat und es noch etwas Platz im Topf gibt, kann man noch etwas mehr Wasser nachschenken, verrühren und die Würzung anpassen.
+
+Nachdem die rote Beete in der Suppe fertig ist, kann man die Herdplatte unter dem Topf ausschalten und die Suppe noch weitere 10 bis 15 Minuten stehen lassen. Dann ist die
+Suppe fertig und kann serviert werden. Falls man möchte, kann man in seinen Teller noch Schmand dazu geben.
+
+Guten Appetit!
 
 ### Aufbewahrung
+
+Nachdem der Topf abgekühlt ist, kann man diesen zum Aufbewahren über Nacht in den Kühlschrank stellen. Dadurch, dass in der Suppe kein Fleisch benutzt worden ist, hält diese
+auch länger und kann 4 bis 5 Tage gegessen werden, solange sie über Nacht in den Kühlschrank kommt.
