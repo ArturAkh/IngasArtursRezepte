@@ -18,9 +18,19 @@ für andere Gerichte weiterverwenden.
 * 1/4 von einem mittelgroßen Weißkohl
   * Falls gewünscht, kann man noch 3-4 kleine Paprika dazunehmen (Achtung, **keine** Pepperoni), die sich für die Suppe gut eignen
 * 1 großes oder 2-3 kleine Loorbeerblätter
-* Salz (am besten nicht gemahlener Meersalz oder Himalaya-Salz), Pfeffer nach Geschmack
+* Salz für das Suppenwasser (am besten nicht gemahlener Meersalz oder Himalaya-Salz), bei Bedarf gemahlener Salz fürs Anbraten, Pfeffer nach Geschmack.
   * Weitere Möglichkeiten für Gewürze: besonders beliebt sind Dill und Petersilie
+  * Für mehr Schärfe kann man mit kleinen, roten Chili-Schoten sorgen - eine oder zwei Schoten für einen Topf Suppe sollten ausreichen.
 
 ### Zubereitung
+
+Zunächst gibt man in das Wasser im Topf Loorbeerblätter und einen Esslöffel vom nicht gemahlenen Salz hinzu. Anschließend werden Kartoffeln gewaschen, geschält und
+je nach Größe direkt in den Topf gegeben, oder in kleinere Stücke geteilt - zum Beispiel geviertelt - und erst dann in den Topf gegeben.
+Den Topf stellt man anschließend auf eine Herdplatte und schaltet diese auf die höchste Stufe an.
+
+Die Kartoffeln brauchen nach dem Aufkochen des Wassers etwa 15 bis 20 Minuten, um fertiggekocht zu sein. Um zu testen, ob die Kartoffeln fertig sind, kann man versuchen, diese
+mit einer Gabel zu durchstechen. Falls das ohne verstärkten Druck geht und die Gabel die Kartoffel leicht zurteilt, sind diese fertig.
+
+Während die Kartoffeln kochen, kann man 
 
 ### Aufbewahrung
