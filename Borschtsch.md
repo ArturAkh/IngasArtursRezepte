@@ -8,7 +8,7 @@ für andere Gerichte weiterverwenden.
 ### Zutaten
 
 * 2-3 Liter Wasser (je nach Topfgröße) - man kann immer Wasser nachschenken, falls zu wenig
-* 3-4 große Kartoffeln, oder 6-8 kleine
+* 3-4 große Kartoffeln, oder 6-8 kleine, am besten mehligkochend
 * 1 große, oder zwei kleine Zwiebeln
   * Falls gewünscht, kann man noch zusätzlich etwas Porree oder Früjlingszwiebeln dazu nehmen
 * 2-3 Zehen Knoblauch
