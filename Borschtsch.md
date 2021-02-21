@@ -71,5 +71,5 @@ Guten Appetit!
 ### Aufbewahrung
 
 Nachdem der Topf abgekühlt ist, kann man diesen zum Aufbewahren über Nacht in den Kühlschrank stellen. Dadurch, dass in der Suppe kein Fleisch benutzt worden ist, hält diese
-auch länger und kann 4 bis 5 Tage gegessen werden, solange sie über Nacht in den Kühlschrank kommt. Beim Aufkochen der Suppe in den drauffolgenden Tagen sollte
+auch länger und kann 4 bis 5 Tage gegessen werden, solange sie über Nacht in den Kühlschrank kommt. Beim Aufkochen der Suppe in diesen 4 bis 5 Tagen sollte
 man darauf achten, dass diese wirklich etwa für 5 Minuten zum Kochen gebracht wurde, bevor man diese in den Teller hinzugibt.
