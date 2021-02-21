@@ -9,10 +9,10 @@ Suppen:
 Pfannengerichte:
 * [Rührei](Ruehrei.md)
 * [Hähnchenbrustfilet gebraten](Haenhchen.md)
+* [Brat- und Backkartoffeln](Kartoffeln.md)
 * [Fischfilet](Fischfilet.md)  *work in progress*
 * [Eierreis mit Gemüse und Fleisch](Eierreis.md) *work in progress*
 * [Zucchini mit Gemüse gedünstet](Zucchini.md) *work in progress*
-* [Brat- und Backkartoffeln](Kartoffeln.md) *work in progress*
 
 Salate:
 * [Grüner Salat](Salat.md)
