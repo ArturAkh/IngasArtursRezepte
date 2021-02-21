@@ -63,7 +63,8 @@ Falls es an Salz und Pfeffer fehlt, kann man diese nach Geschmack hinzufügen un
 Falls außerdem die Suppe eine zu hohe Konsistenz hat und es noch etwas Platz im Topf gibt, kann man noch etwas mehr Wasser nachschenken, verrühren und die Würzung anpassen.
 
 Nachdem die rote Beete in der Suppe fertig ist, kann man die Herdplatte unter dem Topf ausschalten und die Suppe noch weitere 10 bis 15 Minuten stehen lassen. Dann ist die
-Suppe fertig und kann serviert werden. Falls man möchte, kann man in seinen Teller noch Schmand dazu geben.
+Suppe fertig und kann serviert werden. Falls man möchte, kann man in den Teller mit Suppe noch Schmand dazu geben. Der Schmand darf **nicht** in den Topf, das verringert
+die Haltbarkeit der Suppe deutlich.
 
 Guten Appetit!
 
