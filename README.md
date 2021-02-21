@@ -2,7 +2,7 @@
 
 Dies ist eine Ansammlung unserer Kochrezepte für die Küche im Alltag, schnell und lecker zubereitet. Folgende Gerichte stellen wir vor:
 
-* [Borschtsch](Borschtsch.md) *work in progress*
+* [Borschtsch](Borschtsch.md)
 * [Hähnchenbrustfilet gebraten](Haenhchen.md)
 * [Rührei](Ruehrei.md)
 * [Fischfilet im Ofen](Fischfilet.md)  *work in progress*
